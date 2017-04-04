@@ -1,7 +1,7 @@
 import sys
 
-# Round 1A 2008
-# https://code.google.com/codejam/contest/32016/dashboard#s=p0
+# Round A APAC
+# https://code.google.com/codejam/contest/3214486/dashboard
 
 def A():
 	LED={
